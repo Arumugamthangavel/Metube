@@ -4,8 +4,13 @@
         <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
         <meta name="width" content="width=device-width">
         <title>METUBE</title>
-    </head>
+    </head>  
     <body>
+        <nav class="step 1">
+          <div id="first">
+
+          </div>
+        </nav>
         
     </body>
 </html>
