@@ -8,8 +8,14 @@
     <body>
         <nav class="step 1">
           <div id="first">
+            <img decoding="async" src="C:\Users\tmani\OneDrive\Documents\Desktop\youtube clone\youtube icons\youtube black.png" class="logo" alt="">
 
           </div>
+          <div class="second">
+            <div class="search">
+                <input type="text" placeholder="Search..">
+                <img decoding="async" src="C:\Users\tmani\OneDrive\Documents\Desktop\youtube clone\youtube icons\search icon.png" alt="">
+            </div>    
         </nav>
         
     </body>
